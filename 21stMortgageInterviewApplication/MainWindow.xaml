@@ -44,7 +44,6 @@
             Padding="10,5" 
             Click="Find_Largest_Value"/>
 
-            <!-- Button for Total of Even Numbers -->
             <Button Content="Find Total of Even Numbers" 
             Padding="10,5" 
             Click="Find_Total_Even_numbers"/>
